@@ -1,0 +1,49 @@
+<div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="box"></div>
+            </div>
+            <div class="col">
+                <div class="box"></div>
+            </div>
+            <div class="col">
+                <div class="box"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="box"></div>
+            </div>
+            <div class="col">
+                <div class="box"></div>
+            </div>
+            <div class="col">
+                <div class="box"></div>
+            </div>
+            <div class="col">
+                <div class="box"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+               <h3>Something New for Bootstrap-5</h3>
+               <p>This is my first bootsrap-5 class with projects.</p> 
+            </div>
+            <div class="col">
+                <h3>Something New for Bootstrap-5</h3>
+                <p>This is my first bootsrap-5 class with projects.</p>
+            </div>
+            <div class="col">
+                <h3>Something New for Bootstrap-5</h3>
+                <p>This is my first bootsrap-5 class with projects.</p>
+            </div>
+            <div class="col">
+                <h3>Something New for Bootstrap-5</h3>
+                <p>This is my first bootsrap-5 class with projects.</p>
+            </div>
+            <div class="col">
+                <h3>Something New for Bootstrap-5</h3>
+                <p>This is my first bootsrap-5 class with projects.</p>
+            </div>
+        </div>
+    </div>
